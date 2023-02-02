@@ -45,4 +45,6 @@ const Pregunta = (  {guardarPresupuesto, guardarRestante}  ) => {
         </Fragment>
     );
 }
+
+
 export default Pregunta;
