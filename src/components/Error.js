@@ -6,4 +6,5 @@ const Error = (  {mensaje}  ) => (
         {mensaje}
     </p>
 );
+
 export default Error;
