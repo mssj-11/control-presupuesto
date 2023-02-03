@@ -83,6 +83,8 @@ h2 {
   list-style: none;
   margin-bottom: 0rem;
   border-bottom: 1px solid #e1e1e1;
+  border-radius: .25rem;
+  font-weight: bold;
   padding: 1rem 0;
 }
 .gastos-realizados li:last-of-type {
