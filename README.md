@@ -1,3 +1,14 @@
+#   Control de presupuesto - REACT
+
+##  [DEMO](https://control-presupuesto1.netlify.app/)
+##  Generación de ID mediante librerí
+`npm i shortid`
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
